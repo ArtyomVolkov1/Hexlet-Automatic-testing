@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-automatic-testing",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Automatic testing",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtyomVolkov1/Hexlet-Automatic-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtyomVolkov1/Hexlet-Automatic-testing/issues"
+  },
+  "homepage": "https://github.com/ArtyomVolkov1/Hexlet-Automatic-testing#readme"
+}
